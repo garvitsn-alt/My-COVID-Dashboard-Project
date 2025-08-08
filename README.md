@@ -54,19 +54,23 @@ This project demonstrates my ability to clean real-world datasets using Python a
 
 \## 📷 Screenshots
 
-!\[Dashboard Screenshot 1](images/dashboard\_screenshot1.png)
+!\[Dashboard Screenshot 1](https://raw.githubusercontent.com/garvitsn-alt/My-COVID-Dashboard-Project/2f2acc50b31918759112b768000489dd1ae44c47/Dashboard-Screenshot-1.png)
 
-!\[Dashboard Screenshot 2](images/dashboard\_screenshot1.png)
+!\[Dashboard Screenshot 2](https://raw.githubusercontent.com/garvitsn-alt/My-COVID-Dashboard-Project/2f2acc50b31918759112b768000489dd1ae44c47/Dashboard-Screenshot-2.png)
 
-!\[Dashboard Screenshot 3](images/dashboard\_screenshot1.png)
+!\[Dashboard Screenshot 3](https://raw.githubusercontent.com/garvitsn-alt/My-COVID-Dashboard-Project/2f2acc50b31918759112b768000489dd1ae44c47/Dashboard-Screenshot-3.png)
 
 
 
 \## 📁 Files
 
-\- `scripts/clean\_data.py`: Python cleaning script
+\- `CovidCleanedDataSet.ipynb`: Python cleaning script
 
-\- `dashboard/covid\_dashboard.pbix`: Power BI file
+\- `dashboardCovid.pbix`: Power BI file
 
-\- `data/covid\_data.csv`: Raw dataset
+\- `cleanedCovidData.csv`: Clean dataset
+
+\- `Covid\_stats\_Jan2025.csv`: Raw dataset
+
+
 
