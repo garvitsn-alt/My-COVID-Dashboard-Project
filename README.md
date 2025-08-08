@@ -8,11 +8,27 @@ This project demonstrates my ability to clean real-world datasets using Python a
 
 \## 🚀 Tools Used
 
-\- Python (Pandas, NumPy)
+- \*\*Python (pandas, NumPy)\*\* for data cleaning
 
-\- Power BI (DAX, Visualizations)
+\- \*\*Power BI\*\* (DAX, Visualizations) for building interactive dashboards
 
-\- Data source: \[https://www.kaggle.com/datasets/jocelyndumlao/global-covid-19-statistics-jan-2025](#)
+\- \*\*Git/GitHub\*\* for version control and portfolio hosting
+
+
+
+\## Data source: \[https://www.kaggle.com/datasets/jocelyndumlao/global-covid-19-statistics-jan-2025](#)
+
+
+
+\## 🔧 Tools Used
+
+\- \*\*Python (pandas)\*\* for data cleaning
+
+\- \*\*Power BI\*\* for building interactive dashboards
+
+\- \*\*Git/GitHub\*\* for version control and portfolio hosting
+
+
 
 
 
@@ -52,6 +68,16 @@ This project demonstrates my ability to clean real-world datasets using Python a
 
 
 
+\## 🚀 How to Use
+
+1\. Run the `CovidCleanedDataSet.py` script
+
+2\. Open the `dashboardCovid.pbix` file in Power BI Desktop
+
+3\. Load the cleaned CSV and explore the visuals
+
+
+
 \## 📷 Screenshots
 
 !\[Dashboard Screenshot 1](https://raw.githubusercontent.com/garvitsn-alt/My-COVID-Dashboard-Project/2f2acc50b31918759112b768000489dd1ae44c47/Dashboard-Screenshot-1.png)
@@ -71,6 +97,14 @@ This project demonstrates my ability to clean real-world datasets using Python a
 \- `cleanedCovidData.csv`: Clean dataset
 
 \- `Covid\_stats\_Jan2025.csv`: Raw dataset
+
+
+
+\## 👤 Author
+
+Garvit Saini — transitioning from QA Automation to Data Science
+
+
 
 
 
